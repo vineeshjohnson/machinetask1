@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # moch_api
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# machinetask1
+Machine Task for Boarding week 1
+>>>>>>> d47ba4fe1292fc589c42b5f18522afbf56b7a923
